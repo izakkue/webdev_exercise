@@ -1,4 +1,4 @@
-# webdeb_exercise
+# webdev_exercise
 
 Repository ini berisi kumpulan kode dan latihan saya dalam mempelajari pengembangan web (Web Development). Semua proyek dan file di dalamnya adalah hasil eksplorasi dan eksperimen saya dalam memahami teknologi web.
 
